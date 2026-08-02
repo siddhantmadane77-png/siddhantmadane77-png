@@ -1,9 +1,7 @@
-
-
 <div align="center">
 
 <!-- Animated wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hi%20There,%20I'm%20Yadnyesh%20Khotre&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Lifelong%20Learner&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hi%20There,%20I'm%20Siddhant%20Madane&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20%7C%20Open%20Source%20Enthusiast%20%7C%20Lifelong%20Learner&descAlignY=58&descAlign=50" width="100%"/>
 
 <!-- Typing animation -->
 <a href="#">
@@ -13,10 +11,8 @@
 <br/>
 
 <!-- Social badges -->
-<a href="https://www.linkedin.com/in/yadnyesh-khotre-0a5305174/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="mailto:yadnyeshkhotre.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://nukaazo.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/siddhant-madane-8336b7273?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:siddhantmadane77@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
@@ -25,21 +21,12 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name: Yadnyesh Khotre
-role: Full-Stack Developer
+name: Siddhant Madane
+role: student
 location: Pune, India
-currently_working_on: Nukaazo - A Hyperlocal E-commerce Platform
-currently_learning: Rust, System Design
-ask_me_about: React, Node.js, Python, DevOps
-fun_fact: I debug better with coffee ☕
 ```
 
-- 🔭 I'm currently working on **[Nukaazo](https://nukaazo.com) — A Hyperlocal E-commerce Platform**
-- 🌱 I'm currently learning **Rust & System Design**
-- 👯 I'm looking to collaborate on **open-source projects**
-- 💬 Ask me about **React, Node.js, Python, Cloud & DevOps**
-- 📫 How to reach me: **yadnyeshkhotre.dev@gmail.com**
-- ⚡ Fun fact: **I turn coffee into code**
+- 📫 How to reach me: **siddhantmadane77@gmail.com**
 
 <br/>
 
@@ -93,43 +80,16 @@ fun_fact: I debug better with coffee ☕
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yadnyeshkhotre&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadnyeshkhotre&layout=compact&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=siddhantmadane77-png&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantmadane77-png&layout=compact&theme=radical"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yadnyeshkhotre&theme=radical" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=siddhantmadane77-png&theme=radical" alt="GitHub Streak"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yadnyeshkhotre&theme=redical" width="100%"/>
-
-</div>
-
-<br/>
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/yadnyeshkhotre/ICEM-Tech-Fest">
-  <img src="https://img.shields.io/badge/ICEM--Tech--Fest-View_Repo-2575fc?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<img src="https://img.shields.io/github/stars/yadnyeshkhotre/ICEM-Tech-Fest?style=for-the-badge&color=6a11cb"/>
-
-<br/><br/>
-
-<a href="https://github.com/yadnyeshkhotre/bugzy-invoice-snap">
-  <img src="https://img.shields.io/badge/bugzy--invoice--snap-View_Repo-2575fc?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<img src="https://img.shields.io/github/stars/yadnyeshkhotre/bugzy-invoice-snap?style=for-the-badge&color=6a11cb"/>
-
-<br/><br/>
-
-<a href="https://github.com/yadnyeshkhotre/Code-Loom-Weave-the-Missing-Logic">
-  <img src="https://img.shields.io/badge/Code--Loom-View_Repo-2575fc?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<img src="https://img.shields.io/github/stars/yadnyeshkhotre/Code-Loom-Weave-the-Missing-Logic?style=for-the-badge&color=6a11cb"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhantmadane77-png&theme=redical" width="100%"/>
 
 </div>
 
@@ -138,7 +98,7 @@ fun_fact: I debug better with coffee ☕
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/yadnyeshkhotre/yadnyeshkhotre/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/siddhantmadane77-png/siddhantmadane77-png/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
 </div>
 
 <br/>
@@ -146,7 +106,7 @@ fun_fact: I debug better with coffee ☕
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yadnyeshkhotre&bg_color=0d1117&color=2575fc&line=6a11cb&point=ffffff&theme=react-dark" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhantmadane77-png&bg_color=0d1117&color=2575fc&line=6a11cb&point=ffffff&theme=react-dark" width="100%"/>
 </div>
 
 <br/>
@@ -155,11 +115,8 @@ fun_fact: I debug better with coffee ☕
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/yadnyesh-khotre-0a5305174/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
-<a href="https://instagram.com/your-instagram"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="mailto:yadnyeshkhotre.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://nukaazo.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/siddhant-madane-8336b7273?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:siddhantmadane77@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </div>
 
@@ -171,6 +128,6 @@ fun_fact: I debug better with coffee ☕
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=yadnyeshkhotre&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=siddhantmadane77-png&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
